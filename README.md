@@ -1,7 +1,7 @@
 # Software Development II Module Coursework : Theatre
 
 ### About
-As part of my Software Development II module coursework we were assessed on creating a Java file with a Command Line Interface(CLI) based on a Theatre. This was coded on APACHE Netbeans 13 as per the university's coursework specification.
+As part of my Software Development II module coursework we were assessed on creating a Java file with a Command Line Interface(CLI) based on a Theatre. This was coded on Apache Netbeans 13 as per the university's coursework specification.
 
 ### Functions
 The program had to be coded in a way to allow the user to do the following functions: 
