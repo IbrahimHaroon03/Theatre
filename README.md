@@ -3,6 +3,9 @@
 ### About
 As part of my Software Development II module coursework we were assessed on creating a Java file with a Command Line Interface(CLI) based on a Theatre. This was coded on Apache Netbeans 13 as per the university's coursework specification.
 
+### Files
+The files Main.java contains the majority of code along with most of the methods and is where the file runs from. Person.java and ticket.java are seperate files which contain classes and objects which are then called upon in the main file for use. 
+
 ### Functions
 The program had to be coded in a way to allow the user to do the following functions: 
 1. Buy a ticket
